@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureGym.Basket", "PureGym.Basket\PureGym.Basket.csproj", "{2F59AD3B-8868-4596-87ED-BA981679319B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureGym.Basket.Tests", "PureGym.Basket.Tests\PureGym.Basket.Tests.csproj", "{D0F850AF-F7FA-489D-9BF8-92090AF3DCB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F59AD3B-8868-4596-87ED-BA981679319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F59AD3B-8868-4596-87ED-BA981679319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F59AD3B-8868-4596-87ED-BA981679319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F59AD3B-8868-4596-87ED-BA981679319B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F850AF-F7FA-489D-9BF8-92090AF3DCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F850AF-F7FA-489D-9BF8-92090AF3DCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F850AF-F7FA-489D-9BF8-92090AF3DCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F850AF-F7FA-489D-9BF8-92090AF3DCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C3EC0B-34FA-43B1-874E-2354F97B4237}
+	EndGlobalSection
+EndGlobal
